@@ -7,8 +7,8 @@ Instructions to Run the Code
     Install necessary libraries if not already installed. You can use pip to install them: pip install pandas/numpy/scikit-learn
 2. Prepare the Data:
      Download the train and test datasets and place them in the specified directories. The paths in the code assume the following locations:
-               Training data: /kaggle/input/traind/train_data_covid.csv
-               Test data: /kaggle/input/test-data/test_data_covid.csv
+               Training data: train_data_covid.csv
+               Test data: test_data_covid.csv
      Ensure that these paths are correct. If your files are in different locations, update the paths in the code accordingly.
 3. Run the code:
       My copy and pasting my work in the attached file in your suitable environment you can run the code without any inconvenience and we can get the required result
